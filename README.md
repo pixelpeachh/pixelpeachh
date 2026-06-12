@@ -2,7 +2,7 @@
 
 <h1>Hey, I'm Ashvitha 👋</h1>
 
-<h3>IT Student exploring Cybersecurity & DevOps</h3>
+<h3>IT Student exploring Cybersecurity & DevSecOps</h3>
 
 <p>
   <code>Linux</code> •
