@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Ashvitha 👋</h1>
+<h1>Hey, I'm Ashvitha</h1>
 
 <h3>IT Student exploring Cybersecurity & DevSecOps</h3>
 
