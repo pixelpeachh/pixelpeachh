@@ -4,10 +4,10 @@
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#ff9a9e"/>
-      <stop offset="35%" stop-color="#fad0c4"/>
-      <stop offset="70%" stop-color="#a18cd1"/>
-      <stop offset="100%" stop-color="#84fab0"/>
+      <stop offset="0%" stop-color="#ff758c"/>
+     <stop offset="35%" stop-color="#ffb199"/>
+     <stop offset="70%" stop-color="#c471ed"/>
+     <stop offset="100%" stop-color="#12c2e9"/>
     </linearGradient>
 
     <filter id="shadow">
