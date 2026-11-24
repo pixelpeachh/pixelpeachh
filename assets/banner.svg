@@ -53,18 +53,10 @@
         font-size="27"
         font-weight="600"
         fill="#ffffff">
-    IT Student exploring Cybersecurity &amp; DevSecOps
+    IT Student exploring AI/ML
   </text>
 
-  <!-- Skills -->
-  <text x="600" y="225"
-        text-anchor="middle"
-        font-family="Courier New, monospace"
-        font-size="23"
-        font-weight="600"
-        fill="#ffffff">
-    Linux • Docker • Nginx • GitHub • OWASP
-  </text>
+  
 
   <!-- Description -->
   <text x="600" y="285"
